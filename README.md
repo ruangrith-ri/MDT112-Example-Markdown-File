@@ -1,7 +1,6 @@
-# MDT112 Project : /Project\
+# MDT112 Project : โปรเจค
 
 ## Member
--
 
 | Name             | Nickname | Student ID | GitHub Profile Link        |
 |------------------|:--------:|:----------:|:--------------------------:|
