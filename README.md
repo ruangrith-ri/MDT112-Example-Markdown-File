@@ -1,4 +1,4 @@
-# MDT112 Project : โปรเจค
+# MDT112 Project : Pim Thai 
 
 ## Member
 
