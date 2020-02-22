@@ -1,4 +1,4 @@
-# MDT112 Example Markdown File
+# MDT112 Example Markdown File (Folk)
 For MDT112 Student
 
 ## Header
