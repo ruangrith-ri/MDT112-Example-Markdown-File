@@ -1,11 +1,13 @@
-#MDT112 Project : ชิ้นงาน
+#MDT112 Project : /Project\
+
+##Member
 -------
 
-##สมาชิก
--------
+| Name             | Nickname | Student ID | GitHub Profile Link        |
+| Peerapon Chaipat | Top      |    007     |https://github.com/oppotop9 |
+| Name             |          |            |					        |
+| Name             |          |            |                            |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+##Detail Project  
+---
+all in formation about project
