@@ -1,12 +1,12 @@
-# MDT112 Project : Pim Thai 
+# MDT112 Project : ชื่อชิ้นงาน 
 
-## Member
+## สมาชิก
 
-| Name             | Nickname | Student ID | GitHub Profile Link        |
+| ชื่อ               |   ชื่อเล่น   | รหัสนักศึกษา  | GitHub Profile Link        |
 |------------------|:--------:|:----------:|:--------------------------:|
-| Peerapon Chaipat | Top      |    007     |[oppotop9](https://github.com/oppotop9)|
+| นายพีรพล ชัยพัฒน์    | ท็อป     |    007    |[oppotop9](https://github.com/oppotop9)|
 | Name             |          |            |					        |
 | Name             |          |            |                            |
 
-## Detail Project  
-All in formation about project
+## รายละเอียดโปรเจค  
+รายละเอียดโปรเจคอย่างย่อ
