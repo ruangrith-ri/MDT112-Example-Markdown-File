@@ -1,5 +1,4 @@
-# MDT112 Example Markdown File
-For MDT112 Project : Robot cut grass
+# MDT112 Project : Robot cut grass
 
 ## สมาชิก
 
