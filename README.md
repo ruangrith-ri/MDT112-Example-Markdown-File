@@ -1,24 +1,12 @@
-# MDT112 Example Markdown Filenoey
+# MDT112 Project:Smart farm
 For MDT112 Student
 
 ## Header
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-## Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+ชื่อ นางสาว อารียา จิรพงษ์สวัสดี ชื่อเล่น แพร รหัสนักศึกษา 60080501622 Gitgub Profile link PearAreeya
+ชื่อ นางสาว อิสรียากร เพ็ชรวงศ์ ชื่อเล่น มาย รหัสนักศึกษา 60080501623 Gitgub Profile link mindblrr
+ชื่อ นางสาว ปีย์รดา อินทรโชติ ชื่อเล่น เนย รหัสนักศึกษา 61080501612 Gitgub Profile link Noeypeerada
+## รายละเอียดโปรเจค
+Smart farm ประดิษฐ์เป็นโมเดลขึ้นมาเสหมือนจริง จะใช้อุปกรณ์เป็นฟาร์มที่มี led แสดงความชื้น ถ้าร้อนก็จะเป็นสีแดง ถ้าเย็นก็สีน้ำเงิน และถ้าปกติสีเขียว มีจอ lcd วัดอุณหภูมิความชื้นด้วย DHT22 แสดงผลผ่านหน้าจอLED แสดงค่าว่าตอนนี้ความชื้นเท่าไหร่ ถ้าร้อนเกินไปจะระบายความร้อนด้วยพัดลมระบายอากาศ มีbuzzer เตือนถ้ามีควันเกินกำหนดตรวจจับควันได้ด้วย
 
 ## Lists
 
