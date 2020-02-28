@@ -66,7 +66,7 @@ int main() {
 }
 ```
 
-### MDT112 Project : =njv=bho'ko'
+### MDT112 Project : 
 
 ## สมาชิก
 
