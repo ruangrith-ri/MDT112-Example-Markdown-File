@@ -2,7 +2,7 @@
 For MDT112 Student
 
 ## Header
-hell game my name bat na
+hello game my name bat na
 # H1
 ## H2
 ### H3
