@@ -1,4 +1,4 @@
-# MDT112 Example Markdown File
+﻿# MDT112 Example Markdown File
 For MDT112 Student
 
 ## Header
@@ -66,29 +66,23 @@ int main() {
 }
 ```
 
-## Table
+### MDT112 Project : =njv=bho'ko'
 
-Colons can be used to align columns.
+## สมาชิก
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
+| -- | ---- | -------- | -------------- |
+| ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
+| ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
+| ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+## รายละเอียดโปรเจค
+
 
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-MiTH.PUBG
-MinOru IGL
-Ezqelusia ATK
-DUCKMANZ ATK,SCOUNT
-NeoticaOppa Support
 
 ## Blockquotes
 
