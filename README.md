@@ -5,7 +5,7 @@
 | ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
 | -- | ---- | -------- | -------------- |
 | นายพงศกร บุญครอง | มอส | 62120501063 | https://github.com/mithmos339/MDT112-Project |
-| ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
+| นายธัญกร มีชัย | แน๊ก | 62120501005 | https://github.com/thanyakorn/MDT112-Project |
 | ชื่อ | ชื่อเล่น | รหัสนักศึกษา | GITHUB PROFILE |
 
 # รายละเอียดโปรเจค
