@@ -1,15 +1,13 @@
 # MDT112 Example Markdown File
 For MDT112 Project : Robot cut grass
 
-## Table
+## สมาชิก
 
-Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
+|ชื่อ|ชื่อเล่น|รหัสนักศึกษา|Github Profile Link|
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| นายเพนกวิ้น กินแมว    | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|นายศศิโรจน์ ทิพทิพากร|โจ้|62110501009|
+|
 
 # รายละเอียดโปรเจค
 
