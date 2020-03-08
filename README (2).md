@@ -1,7 +1,7 @@
 # MDT112 Example Markdown File
 For MDT112 Student
 
-## ÊÁÒªÔ¡
+## HH
 
 # H1
 ## H2
@@ -12,7 +12,7 @@ For MDT112 Student
 
 ## Emphasis
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Emä·¹italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
