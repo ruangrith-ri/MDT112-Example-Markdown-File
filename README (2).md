@@ -1,6 +1,3 @@
-# MDT112 Project : Sleepless
-
-### สมาชิก
 
 
 
