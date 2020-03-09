@@ -7,4 +7,4 @@
 | -------------       |:-------------:| -----:|
 |                    |               |  |
 |                    |               |   |
-| นางสาวสุกฤตา จันทร์สีทอง | ต้า            |   055 | [Issabellaaat]https://github.com/Issabellaaat
+| นางสาวสุกฤตา จันทร์สีทอง | ต้า            |   055 | https://github.com/Issabellaaat
