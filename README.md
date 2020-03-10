@@ -68,11 +68,11 @@ int main() {
 
 ## Table
 
-Colons can be used to align columns.
+Eye Contact
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+|     Name               |     Nickname      |         NO.        |    Github Profile Link          |  
+|------------------------|:-----------------:|-------------------:|--------------------------------:|
+| Sawarin Wannachawee    | Katoy             | 62120501079        | https://github.com/poohkatoy    |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
