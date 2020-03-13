@@ -88,6 +88,17 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
+###Manipulation
+กลุ่มการมองเห็น
+- LED Red Green Blue
+- LED
+- LCD Display
+- OLED Dis Play
+กลุ่มอื่นๆ
+- Relay ควบคุมอุปกรณ์ไฟฟ้า
+- Random Number Generator 
+
+
 ## Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
