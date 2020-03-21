@@ -90,6 +90,17 @@ Detail Project :
 - ความสูง
 - โวลุ่มปรับค่าความสว่าง
 
+###Manipulation
+กลุ่มการมองเห็น
+- LED Red Green Blue
+- LED
+- LCD Display
+- OLED Dis Play
+กลุ่มอื่นๆ
+- Relay ควบคุมอุปกรณ์ไฟฟ้า
+- Random Number Generator 
+
+
 ## Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
