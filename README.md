@@ -73,7 +73,7 @@ Name Project : Eye Contact
 |     Name               |     Nickname      |         NO.        |    Github Profile Link          |  
 |------------------------|:-----------------:|-------------------:|--------------------------------:|
 | Sawarin Wannachawee    | Katoy             | 62120501079        | https://github.com/poohkatoy    |
-| col 2 is      | centered      |   $12 |
+| Mananchaya Srisai      | Nay               | 62120501064        | https://github.com/mananssnay   |
 | zebra stripes | are neat      |    $1 |
 
 Detail Project :
