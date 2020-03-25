@@ -76,7 +76,7 @@ Name Project : Eye Contact
 |------------------------|:-----------------:|-------------------:|--------------------------------:|
 | Sawarin Wannachawee    | Katoy             | 62120501079        | https://github.com/poohkatoy    |
 | Mananchaya Srisai      | Nay               | 62120501064        | https://github.com/mananssnay   |
-| zebra stripes | are neat      |    $1 |
+| Orawan Onsang          | Mungkorn          | 62120501011        | https://github.com/MK-max       |
 
 Detail Project :
 
